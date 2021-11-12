@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon ./api"
+    "server": "nodemon ./api",
+    "start": "nodemon ./api"
   },
   "author": "Alexis Patiño",
   "license": "ISC",
